@@ -2,6 +2,7 @@
 #define BPT_MEMORYRIVER_HPP
 
 #include <fstream>
+#include <ios>
 
 using std::string;
 using std::fstream;
@@ -187,4 +188,3 @@ public:
 
 
 #endif //BPT_MEMORYRIVER_HPP
-
