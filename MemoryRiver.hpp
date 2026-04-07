@@ -3,6 +3,7 @@
 
 #include <fstream>
 #include <ios>
+#include <string>
 
 using std::string;
 using std::fstream;
